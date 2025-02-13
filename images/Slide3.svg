@@ -276,9 +276,8 @@
     <path d="M709.5 539.333 C709.5 534.455 713.455 530.5 718.333 530.5 L1204.67 530.5 C1209.55 530.5 1213.5 534.455 1213.5 539.333 L1213.5 574.667 C1213.5 579.545 1209.55 583.5 1204.67 583.5 L718.333 583.5 C713.455 583.5 709.5 579.545 709.5 574.667 Z" id="Text2--slide3--74" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="6" style="fill:#8064A2;stroke:#1C334E;" />
     <text transform="translate(758.534, 566)" id="Text2--slide3--75" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="29" font-weight="400" class="fragment-off" data-fragment-index="6" style="fill:white;">More Focus on Business Problems</text>
     <path d="M709.5 600.5 C709.5 595.53 713.53 591.5 718.5 591.5 L1204.5 591.5 C1209.47 591.5 1213.5 595.53 1213.5 600.5 L1213.5 636.5 C1213.5 641.471 1209.47 645.5 1204.5 645.5 L718.5 645.5 C713.53 645.5 709.5 641.471 709.5 636.5 Z" id="Text1--slide3--76" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="7" style="fill:#8064A2;stroke:#1C334E;" />
-    <text transform="translate(750.741, 627)" id="Text1--slide3--77" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="29" font-weight="400" class="fragment-off" data-fragment-index="7" style="fill:white;">Central to a</text>
-    <text transform="translate(895.248, 627)" id="Text1--slide3--78" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="29" font-weight="400" class="fragment-off" data-fragment-index="7" style="fill:white;">True Full Stack Solution</text>
-    <g clip-path="url(#clip42)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide3--slide3--79" style="display:none;">
+    <text transform="translate(750.741, 627)" id="Text1--slide3--77" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="29" font-weight="400" class="fragment-off" data-fragment-index="7" style="fill:white;">Central to a True Full Stack Solution</text>
+    <g clip-path="url(#clip42)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide3--slide3--78" style="display:none;">
       <g clip-path="url(#clip44)">
         <use xlink:href="#img43" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -1, -0.5)" />
       </g>
